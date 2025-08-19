@@ -12,7 +12,7 @@
 
 Clone from GitHub 
 ```
-https://github.com/themewagon/Broadcast.git
+https://github.com/themewagon/Retrospect.git
 ```
 
 ## Author
