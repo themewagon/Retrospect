@@ -17,12 +17,12 @@ https://github.com/themewagon/Retrospect.git
 
 ## Author
 
-Design and code are completely written by Templated.Co's design and development team.  
+Design and code are completely written by Templated's design and development team.  
 
 
 ## License
 
- - Design and Code is Copyright &copy; [Templated.Co](https://templated.live/)
+ - Design and Code is Copyright &copy; [Templated](https://templated.live/)
  - Licensed under [MIT]
  - Distributed by [ThemeWagon](https://themewagon.com)
 
