@@ -22,7 +22,7 @@ Design and code are completely written by Templated.Co's design and development 
 
 ## License
 
- - Design and Code is Copyright &copy; [Templated.Co](https://templated.co/)
+ - Design and Code is Copyright &copy; [Templated.Co](https://templated.live/)
  - Licensed under [MIT]
  - Distributed by [ThemeWagon](https://themewagon.com)
 
